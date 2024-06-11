@@ -7,8 +7,8 @@ import { single } from "rxjs";
 
 @Component({
     selector : 'app-TdForm',
-    templateUrl : './TdForm.component.html',
-    styleUrls : ['./TdForm.component.scss']
+    templateUrl : './tdForm.component.html',
+    styleUrls : ['./tdForm.component.scss']
 })
 export class TdFormComponent implements OnInit{
    
