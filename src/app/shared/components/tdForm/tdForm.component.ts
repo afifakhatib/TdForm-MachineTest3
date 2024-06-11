@@ -1,7 +1,6 @@
 import { Component, OnInit, ViewChild } from "@angular/core";
 import { NgForm } from "@angular/forms";
 import { IcontactMode, IuserInfo } from "../../models/tdForm.interface";
-import { single } from "rxjs";
 
 
 
